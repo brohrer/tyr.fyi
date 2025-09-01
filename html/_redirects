@@ -1,8 +1,8 @@
 # Redirects for inbound queries
-/                    https://brandonrohrer.com/httyr/httyr.html    301!
-/i                   https://brandonrohrer.com/httyr/httyr.html    301!
-/ind                 https://brandonrohrer.com/httyr/httyr.html    301!
-/index               https://brandonrohrer.com/httyr/httyr.html    301!
+/                    https://brandonrohrer.com    301!
+/i                   https://brandonrohrer.com    301!
+/ind                 https://brandonrohrer.com    301!
+/index               https://brandonrohrer.com    301!
 /httyr               https://brandonrohrer.com/httyr/httyr.html    301!
 /howtotrainyourrobot      https://brandonrohrer.com/httyr/httyr.html    301!
 /how_to_train_your_robot  https://brandonrohrer.com/httyr/httyr.html    301!
@@ -63,9 +63,9 @@
 /httyr4logit     https://vimeo.com/772902777  301!
 /4logit          https://vimeo.com/772902777  301!
 /4logitnorm      https://en.wikipedia.org/wiki/Logit-normal_distribution  301!
-/4matmul         https://e2eml.school/transformers.html#matrix_multiplication  301!
-/4color          https://e2eml.school/matplotlib_color.html  301!
-/4numbers        https://e2eml.school/images_to_numbers.html  301!
+/4matmul         https://brandonrohrer.com/transformers.html#matrix_multiplication  301!
+/4color          https://brandonrohrer.com/matplotlib_color.html  301!
+/4numbers        https://brandonrohrer.com/images_to_numbers.html  301!
 /4matplotlib     https://matplotlib.org/stable/api/index
 /4shadmehr       http://courses.shadmehrlab.org/Shortcourse/minimumjerk.pdf
 /4plamondon      http://diabeto.enseeiht.fr/download/handwriting/PlamonVelocity.pdf
